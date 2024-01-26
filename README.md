@@ -1,5 +1,4 @@
-(https://github.com/Ajinkyakedia/Ajinkyakedia/assets/121614953/42f30b90-88de-4497-a98a-a68cfaa0ef09)
-
+![logo](https://github.com/Ajinkyakedia/Ajinkyakedia/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ajinkya kedia</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
